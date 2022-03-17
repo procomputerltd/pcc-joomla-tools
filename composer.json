@@ -1,5 +1,5 @@
 {
-    "name": "procomputerltd/pcc-joomla-tools",
+    "name": "procomputer/pcc-joomla-tools",
     "description": "Pro Computer's Joomla! Tools for PHP.",
     "keywords": ["template", "composer", "package"],
     "license": "BSD-3-Clause",
