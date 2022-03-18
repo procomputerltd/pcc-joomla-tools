@@ -3,6 +3,7 @@
     "description": "Pro Computer's Joomla! Tools for PHP.",
     "keywords": ["template", "composer", "package"],
     "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "James R. Steel",
